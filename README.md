@@ -54,10 +54,3 @@ Historical data spans 2 years of daily closing prices.
 - **numpy**: Numerical computations
 - **scipy**: Statistical functions and distributions
 
-## Use Cases
-
-- Portfolio risk assessment
-- Regulatory capital requirements
-- Investment strategy evaluation
-- Risk-adjusted performance measurement
-- Stress testing and scenario analysis
